@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Welcome to My GitHub Page</h1>
-    <img src="your-photo-filename.jpg" alt="Your Photo Description">
+    <img src="spiderman.jpg" alt="Your Photo Description">
 </body>
 </html>
